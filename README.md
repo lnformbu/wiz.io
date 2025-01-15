@@ -137,6 +137,8 @@ Managing security across cloud environments can be complex. **Wiz Cloud** provid
 
 Wiz helps organizations uncover and remediate high-severity risks in cloud environments without overwhelming teams with excessive alerts. The platform streamlines security with a proactive approach, ensuring businesses can innovate securely.
 
+![risk](img/risk.png)
+
 ---
 
 ## What is Cloud Security?
@@ -148,6 +150,8 @@ Cloud security involves safeguarding cloud systems, data, and infrastructure thr
 ## Understanding Cloud Computing
 
 Cloud computing relies on service and deployment models:
+
+![cloud](img/cloud.png)
 
 ### Service Models
 - **SaaS (Software as a Service)**: Fully managed applications (e.g., Google Workspace, Salesforce).  
@@ -183,6 +187,8 @@ Effective cloud security is achieved through key pillars:
 ---
 
 ## Cloud Security Risks and Threats
+
+![sec1](img/sec1.png)
 
 ### Intrinsic Risks
 - Insecure APIs  
