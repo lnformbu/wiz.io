@@ -299,7 +299,7 @@ The U.S. Navy partnered with Wiz to simplify cloud security and improve operatio
 
 By leveraging Wiz, organizations like the U.S. Navy transform their cloud security strategy, ensuring scalability, agility, and compliance.
 
-For more information, visit **[Wiz.io](https://www.wiz.io/)**.
+For more information, visit **[Wiz.io](https://www.wiz.io/customers/niwc-pac-sbs/)**.
 
 ---
 
