@@ -229,6 +229,8 @@ Wiz’s **Cloud-Native Application Protection Platform (CNAPP)** offers a unifie
 
 Wiz extends its FedRAMP-authorized services to include **Wiz Code**, providing visibility into attack paths from cloud to code. This secures the entire software development lifecycle.
 
+![gov](img/gov.png)
+
 ---
 
 ## Securing the Software Supply Chain
