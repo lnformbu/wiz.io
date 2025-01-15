@@ -116,12 +116,12 @@ Managing security across cloud environments can be complex. **Wiz Cloud** provid
 
 ### Key Features
 
-- **eBPF-powered CWP**  
-- **Kubernetes eBPF Runtime Protection**  
-- **Cloud Investigation and Response Automation (CIRA)**  
-- **Cloud Threat Intelligence and Hunting**  
-- **Identity Detection and Response (ITDR)**  
-- **Data Detection and Response (DDR)**
+- **eBPF-powered CWP**: Leverage eBPF technology to enhance cloud workload protection with real-time visibility and security enforcement at the kernel level.  
+- **Kubernetes eBPF Runtime Protection**: Secure Kubernetes environments by detecting and mitigating runtime threats using eBPF for deep visibility into container behavior.  
+- **Cloud Investigation and Response Automation (CIRA)**: Automate incident investigation and response workflows to quickly identify and address security issues across your cloud environment.  
+- **Cloud Threat Intelligence and Hunting**: Proactively hunt for and mitigate threats using actionable intelligence tailored for cloud environments.  
+- **Identity Detection and Response (ITDR)**: Strengthen identity security by detecting and responding to identity-based threats, such as credential misuse or privilege escalation.  
+- **Data Detection and Response (DDR)**: Identify and respond to risks associated with sensitive data exposure and misuse, ensuring robust data protection across your cloud infrastructure.  
 
 ### Benefits
 
